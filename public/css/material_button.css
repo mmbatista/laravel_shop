@@ -1,0 +1,317 @@
+
+.j58 {
+  color: inherit;
+  cursor: pointer;
+  margin: 0;
+  border: 0;
+  display: inline-flex;
+  padding: 0;
+  outline: none;
+  position: relative;
+  user-select: none;
+  align-items: center;
+  border-radius: 0;
+  vertical-align: middle;
+  justify-content: center;
+  -moz-appearance: none;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.j58::-moz-focus-inner {
+  border-style: none;
+}
+.j58.j59 {
+  cursor: default;
+  pointer-events: none;
+}
+
+
+.j181 {
+  color: rgba(0, 0, 0, 0.87);
+  padding: 8px 16px;
+  font-size: 0.875rem;
+  min-width: 64px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  min-height: 36px;
+  box-sizing: border-box;
+  line-height: 1.4em;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+.j181:hover {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.08);
+}
+.j181.j201 {
+  color: rgba(0, 0, 0, 0.26);
+}
+@media (hover: none) {
+  .j181:hover {
+    background-color: transparent;
+  }
+}
+.j181:hover.j201 {
+  background-color: transparent;
+}
+.j182 {
+  width: 100%;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.j184 {
+  color: #2196f3;
+}
+.j184:hover {
+  background-color: rgba(33, 150, 243, 0.08);
+}
+@media (hover: none) {
+  .j184:hover {
+    background-color: transparent;
+  }
+}
+.j185 {
+  color: rgb(225, 0, 80);
+}
+.j185:hover {
+  background-color: rgba(225, 0, 80, 0.08);
+}
+@media (hover: none) {
+  .j185:hover {
+    background-color: transparent;
+  }
+}
+.j189 {
+  border: 1px solid rgba(0, 0, 0, 0.23);
+}
+.j190 {
+  border: 1px solid rgba(33, 150, 243, 0.5);
+}
+.j190:hover {
+  border: 1px solid #2196f3;
+}
+.j190.j201 {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+.j191 {
+  border: 1px solid rgba(225, 0, 80, 0.5);
+}
+.j191:hover {
+  border: 1px solid rgb(225, 0, 80);
+}
+.j191.j201 {
+  border: 1px solid rgba(0, 0, 0, 0.26);
+}
+.j192 {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),0px 2px 2px 0px rgba(0, 0, 0, 0.14),0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+  background-color: #e0e0e0;
+}
+.j192.j200 {
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2),0px 6px 10px 0px rgba(0, 0, 0, 0.14),0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+}
+.j192:active {
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2),0px 8px 10px 1px rgba(0, 0, 0, 0.14),0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+}
+.j192.j201 {
+  color: rgba(0, 0, 0, 0.26);
+  box-shadow: none;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.j192:hover {
+  background-color: #d5d5d5;
+}
+@media (hover: none) {
+  .j192:hover {
+    background-color: #e0e0e0;
+  }
+}
+.j192:hover.j201 {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.j193 {
+  color: #fff;
+  background-color: #2196f3;
+}
+.j193:hover {
+  background-color: #1976d2;
+}
+@media (hover: none) {
+  .j193:hover {
+    background-color: #2196f3;
+  }
+}
+.j194 {
+  color: #fff;
+  background-color: rgb(225, 0, 80);
+}
+.j194:hover {
+  background-color: rgb(157, 0, 56);
+}
+@media (hover: none) {
+  .j194:hover {
+    background-color: rgb(225, 0, 80);
+  }
+}
+.j198 {
+  width: 56px;
+  height: 56px;
+  padding: 0;
+  min-width: 0;
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2),0px 6px 10px 0px rgba(0, 0, 0, 0.14),0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 50%;
+}
+.j198:active {
+  box-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2),0px 12px 17px 2px rgba(0, 0, 0, 0.14),0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+}
+.j199 {
+  width: auto;
+  height: 48px;
+  padding: 0 16px;
+  min-width: 48px;
+  border-radius: 24px;
+}
+.j202 {
+  color: inherit;
+}
+.j203 {
+  width: 40px;
+  height: 40px;
+}
+.j204 {
+  padding: 7px 8px;
+  min-width: 64px;
+  font-size: 0.8125rem;
+  min-height: 32px;
+}
+.j205 {
+  padding: 8px 24px;
+  min-width: 112px;
+  font-size: 0.9375rem;
+  min-height: 40px;
+}
+.j206 {
+  width: 100%;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #2196f3;
+    border-color: #2e6da4;
+}
+
+.my-tables {
+  line-height: 50px;
+  width: 75%;
+}
+
+{box-sizing: border-box;}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+
+.btn-delete {
+    background-color: #b8bcbf;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 90px;
+    margin-bottom: 10px;
+    opacity: 0.8;
+    line-height: 0.45;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 1rem;
+    border-radius: .25rem;
+
+}
+
+    .boxgrid img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 0;
+  }
+
+  .actual-info {
+    color: grey; 
+    font-style: italic;  
+    font-size: 15px; 
+    margin-bottom: -10px;
+  }
+
+  .inline {
+    display: inline-block;
+  }
